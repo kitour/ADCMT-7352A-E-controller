@@ -156,7 +156,3 @@ hFE測定モードは、トランジスターの直流電流増幅率（hFE）�
 
 ## 作者
 - [kitour](https://github.com/kitour)
-"# ADCMT-7352A-E-controller" 
-"# ADCMT-7352A-E-controller" 
-"# ADCMT-7352A-E-controller" 
-"# ADCMT-7352A-E-controller" 
